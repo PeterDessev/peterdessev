@@ -1,22 +1,44 @@
-## Hey there! 👋 I'm Peter
+## Peter Dessev: EE undergrad, hardware builder, perpetual deep-diver ⚡
 
-Undergrad **Electrical Engineer** surviving (and occasionally thriving) in **Boulder, Colorado** ⚡🏔️
+Based in **Boulder, CO** · Electrical Engineering · Building things until they actually work 
 
-I get the most satisfaction from building real, hands-on things: custom PCBs, mechanical assemblies, embedded code, and integrated systems - and then refining them relentlessly until every part just clicks.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Peter-Dessev)
 
-### Tech stack & tools
-- Core: KiCad, FreeCAD, C, Simetrix
-- Currently exploring: Rust, Altium, AI/LLMs
-- Daily drivers: Obsidian, Syncthing, GIMP
+---
 
-My favorite project so far: **[BP-1 Microprocessor](https://github.com/PeterDessev/ECEN-2350-Final-Project-SystemVerilog-CPU)** - a from-scratch 8-bit CPU written in SystemVerilog.
+### What I do
 
-Schoolwork is intense right now, but I'm looking forward to sharing more projects soon.
+I design circuits, write firmware, and build the PCBs that run it. Then debug them with an oscilloscope at 1am.
 
-### Fun facts
-- Explored >400 music genres in 2025 alone 🎧🌍 (send help… or playlists)
-- Native-level Bulgarian speaker 🇧🇬 (да, разбира се!)
-- My all-time favorite movie: the Soviet cult classic White Sun of the Desert (1970)
-- Hobbies: Deep-diving books, taking things apart, and the ongoing joy of fixing up my sister's house 🛠️
+The most satisfying moment in any project is when hardware and software finally converge: a custom board, a tight firmware loop, everything behaving exactly as designed. I chase that feeling relentlessly.
 
-Feel free to say hi, star a repo, or open an issue - happy to chat about hardware, Rust, obscure music, or anything in between.
+---
+### Stack
+
+| **Hardware & EDA** | **Languages** | **Daily drivers** |
+| ------------------ | ------------- | ----------------- |
+| KiCad              | C             | Obsidian          |
+| FreeCAD            | SystemVerilog | Syncthing         |
+| Simetrix           | Rust          | Claude            |
+
+**Currently into:** STM32 firmware, USB middleware, DSP, AI/LLMs
+
+---
+
+### Featured project
+
+#### [BP-1 Microprocessor](https://github.com/PeterDessev/ECEN-2350-Final-Project-SystemVerilog-CPU)
+From-scratch 8-bit CPU in SystemVerilog. Full architecture, register file, ALU, control unit. The kind of project you build once and think about forever.
+
+---
+
+### Other things
+
+- Explored **>400 music genres** in 2025 🎧 *(send playlists, not help. I'm too far gone)*
+- Native-level Bulgarian 🇧🇬 · да, разбира се
+- All-time favorite film: **White Sun of the Desert** (USSR, 1970), _watch it_
+- Hobbies: deep-diving books, taking things apart, renovating my sister's house 🛠️
+
+---
+
+Say hi, star a repo, or open an issue. Always happy to talk hardware, Rust, obscure music, or whatever else.
